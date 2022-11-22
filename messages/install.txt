@@ -1,0 +1,35 @@
+Thank you for installing Solarized Lab Color Schemes.
+I hope you enjoy it. 
+
+
+Get Started
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To get started, go to 
+	Preferences -> Select Color Scheme...
+
+Then choose one of the Solarized Lab color schemes 
+from the list.
+	Solarized Dark CIELAB
+	Solarized Light CIELAB
+	Solarized Dark OKLab
+	Solarized Light OKLab
+
+The OKLab based color schemes have higher contrast 
+over the CIELAB color schemes. The CIELAB color
+schemes are the original colors of Solarized.
+
+
+Adaptive Theme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+These Color Schemes support Adaptive Theme from ST3+.
+
+To activate Adaptive Theme, go to
+	Preferences -> Themes...
+
+Then choose Adaptive from the list.
+
+
+Support
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To submit feature requests or bugs, visit
+https://github.com/rayraegah/solarized-lab/issues
