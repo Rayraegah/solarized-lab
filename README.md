@@ -64,4 +64,4 @@ If you create and distribute a derivative color scheme, please give your color s
 
 ## License
 
-Solarized – Adaptive Color Scheme is released under the MIT License.
+Solarized Lab – Adaptive Color Scheme is released under the [MIT License](./LICENSE).
